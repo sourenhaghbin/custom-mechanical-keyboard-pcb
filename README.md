@@ -35,13 +35,21 @@ This project demonstrates practical experience with PCB design, electrical routi
 
 ![Keyboard Layout](images/kicad-pcb-layout.png)
 
+### GPIO Pin Mapping
+
+![Keyboard Layout](images/raspberry-pi-pico-gpio-mapping.png)
+
+### Keyboard Matrix Schematic
+
+![Keyboard Layout](keyboard-matrix-schematic.png)
+
 ### PCB Front View
 
-![PCB Front View](images/pcb-front.png)
+![PCB Front View](images/full-pcb-layout-front.png)
 
 ### PCB Back View
 
-![PCB Back View](images/pcb-back.png)
+![PCB Back View](full-pcb-layout-back.png)
 
 ### KiCad 3D View
 
