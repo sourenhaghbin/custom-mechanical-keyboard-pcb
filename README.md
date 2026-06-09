@@ -49,7 +49,7 @@ This project demonstrates practical experience with PCB design, electrical routi
 
 ### PCB Back View
 
-![PCB Back View](full-pcb-layout-back.png)
+![PCB Back View](images/full-pcb-layout-back.png)
 
 ### KiCad 3D View
 
